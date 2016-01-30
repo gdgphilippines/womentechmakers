@@ -13,8 +13,10 @@
 		start: function() {
 			var $element = this.element;
 			$element.children("span").css({
-				"display": "block",
-				"text-align": "left"
+				"display": "inline-block",
+				"text-align": "left",
+				"float": "left",
+				"clear":"both"
 			})
 			$element.css({
 				"display": "inline-block",
@@ -23,11 +25,13 @@
 				"margin-bottom": "10px"
 			})
 			$element.height($element.children("span").height());
+			$element.width($element.children("span:first-child").width());
 			var numChild = $element.children("span").length;
 			var i = 1;
 			setInterval(function() {
 				$element.animate({
-					"scrollTop": i * $element.children("span").height()
+					"scrollTop": i * $element.children("span").height(),
+					"width": $element.children("span:nth-child("+(i+1)+")").width()+"px"
 				}, 500)
 				i++;
 				if(i == numChild)

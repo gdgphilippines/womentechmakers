@@ -1,4 +1,4 @@
-
+	
 (function($) {
 	"use strict";
 
@@ -34,6 +34,17 @@
 				"opacity": "1"
 			}, 200)
 			var numChild = $element.children("span").length;
+
+			var images = [];
+			images.push("1.jpg");
+			images.push("2.jpg");
+			images.push("3.jpg");
+			images.push("4.jpg");
+			var imagesx = [];
+			for(var x = 0; x < images.length; x++) {
+				imagesx[x] = new Image();
+				imagesx[x].src = "includes/images/slideshow/"+images[x];
+			}
 			var i = 1;
 			setInterval(function() {
 				$element.animate({
@@ -46,6 +57,9 @@
 				$element.children("span:nth-child("+(i+1)+")").animate({
 					"opacity": "1"
 				}, 700)
+				$("header").css({
+					"background-image": "url(includes/images/slideshow/"+images[i]+")"
+				})
 				i++;
 				if(i == numChild)
 					i = 0;

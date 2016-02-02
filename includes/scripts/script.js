@@ -12,7 +12,6 @@ $(document).ready(function() {
 	})
 	responsive();
 	$("#scroller").jTextScroll(5000);
-	slideshow();
 })
 $(window).resize(function() {
 	responsive();
@@ -30,6 +29,7 @@ function responsive() {
 		$("header .brand-logo").width(300);
 	}
 }
+/*
 var images = [];
 images.push("1.jpg");
 images.push("2.jpg");
@@ -60,3 +60,4 @@ function slideshow() {
 		slideshow();
 	}, 5000);
 }
+*/

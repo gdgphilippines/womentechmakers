@@ -5,9 +5,10 @@
 	var jTextScroll = function(element, timeout) {
 		this.element = element;
 		this.timeout = timeout;
-
 		this.start();
 	}
+
+	
 
 	jTextScroll.prototype = {
 		start: function() {

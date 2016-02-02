@@ -5906,7 +5906,7 @@ a.raised_button.large {
 	height: 100%;
 	top: 0px;
 	left: 0px;
-	background-color: rgba(0,0,0,.1);
+	background-color: rgba(0,0,0,.3);
 }
 
 
@@ -5923,9 +5923,14 @@ header {
 	width: 100%;
 	position: relative;
 	background-color: #e0e0e0;
-	background-image: url(../images/cover.jpg);
 	background-attachment: fixed;
+	background-position: center center;
 	background-size: cover;
+	-webkit-transition: all .2s ease-in-out; 
+	-moz-transition: all .2s ease-in-out; 
+	-ms-transition: all .2s ease-in-out; 
+	-o-transition: all .2s ease-in-out; 
+	transition: all .2s ease-in-out;
 }
 header .wrapper {
 	min-width: 360px;
@@ -6009,6 +6014,7 @@ section.cover {
 	background-attachment: fixed;
 	background-size: cover;
 	color: white;
+	text-shadow: 0px 2px 3px rgba(0,0,0,.3);
 }
 section p {
 	line-height: 150%;

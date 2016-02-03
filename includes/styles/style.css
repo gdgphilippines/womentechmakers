@@ -5924,7 +5924,7 @@ header {
 	position: relative;
 	background-color: #e0e0e0;
 	background-attachment: fixed;
-	background-position: center center;
+	background-position: center right;
 	background-size: cover;
 	-webkit-transition: all .2s ease-in-out; 
 	-moz-transition: all .2s ease-in-out; 
@@ -5992,11 +5992,15 @@ header .cover {
 header .cover .text-title {
 	color: white;
 	padding-top: 40px;
+	padding-bottom: 40px;
 	text-shadow: 0px 2px 2px rgba(0,0,0,.5);
 	font-size: 80px;
 }
 header .scroller {
 	border-bottom: 4px solid white;
+}
+header .scroller span {
+	white-space: nowrap;
 }
 header .raised_button {
 	font-size: 35px;
@@ -6189,5 +6193,8 @@ i.wtm {
 	}
 	header .text-title {
 		font-size: 60px !important;
+	}
+	header .scroller span {
+		white-space: normal;
 	}
 }

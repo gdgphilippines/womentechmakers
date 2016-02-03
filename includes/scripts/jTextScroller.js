@@ -40,6 +40,8 @@
 			images.push("2.jpg");
 			images.push("3.jpg");
 			images.push("4.jpg");
+			images.push("5.jpg");
+			images.push("6.jpg");
 			var imagesx = [];
 			for(var x = 0; x < images.length; x++) {
 				imagesx[x] = new Image();
@@ -49,7 +51,8 @@
 			setInterval(function() {
 				$element.animate({
 					"scrollTop": i * spanheight,
-					"width": $element.children("span:nth-child("+(i+1)+")").width()+"px"
+					"width": $element.children("span:nth-child("+(i+1)+")").width()+"px",
+					"height": $element.children("span:nth-child("+(i+1)+")").height()+"px"
 				}, 500)
 				$element.children("span:nth-child("+(i)+")").animate({
 					"opacity": "0"

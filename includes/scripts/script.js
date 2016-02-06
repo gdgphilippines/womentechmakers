@@ -12,6 +12,12 @@ $(document).ready(function() {
 	})
 	responsive();
 	$("#scroller").jTextScroll(5000);
+	$('#map').click(function () {
+		$('#map iframe').css("pointer-events", "auto");
+	});
+	$( "#map").mouseleave(function() {
+		$('#map iframe').css("pointer-events", "none"); 
+	});
 })
 $(window).resize(function() {
 	responsive();

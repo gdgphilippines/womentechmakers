@@ -6177,6 +6177,14 @@ i.wtm {
 	background-color: rgba(0,0,0,.5);
 	display: none;
 }
+.overlay {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0px;
+	left: 0px;
+	background: transparent;
+}
 @media screen and (max-width: 700px) {
 	.wrapper {
 		width: 100%;
@@ -6196,5 +6204,10 @@ i.wtm {
 	}
 	header .scroller span {
 		white-space: normal;
+	}
+}
+@media screen and (max-width: 500px) {
+	header .text-title {
+		font-size: 48px !important;
 	}
 }

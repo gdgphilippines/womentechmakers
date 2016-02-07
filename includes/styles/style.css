@@ -5972,6 +5972,7 @@ header ul.nav li {
 header ul.nav li a {
 	color: white;
 	padding: 10px;
+	white-space: nowrap;
 	border-bottom: 0px solid transparent;
 	-webkit-transition: all .2s ease-in-out; 
 	-moz-transition: all .2s ease-in-out; 

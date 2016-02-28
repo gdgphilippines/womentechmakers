@@ -41,6 +41,7 @@ http://www.juvarabrera.com/
 					<li><a href="index.html">Home</a></li>
 					<li><a href="#details">Event Details</a></li>
 					<li><a href="#about">About WTM</a></li>
+					<li><a href="#agenda">Agenda</a></li>
 					<li><a href="https://docs.google.com/forms/d/1vEbWxVCbaimXYtzflAHaOPAI7nis-xk0pCPww4pcUSI/viewform" target="_blank">Register</a></li>
 				</ul>
 			</div>
@@ -112,24 +113,24 @@ http://www.juvarabrera.com/
 		<div class="col-4 mob-res" style="padding: 10px 20px">
 			<a id="agendaW2" class="raised_button block">Workshop 2</a>
 		</div>
-		<div id="agenda" class="col-12">
+		<div id="agendaCon" class="col-12">
 		</div>
 		<script>
 		$(document).ready(function() {
 			$("#agendaP").click(function() {
-				$("#agenda").load("plenary.html", function(response, status, xhr) {
+				$("#agendaCon").load("plenary.html", function(response, status, xhr) {
 					if(status == "error")
 						alert(xhr.status + " " + xhr.statusText);
 				});
 			})
 			$("#agendaW1").click(function() {
-				$("#agenda").load("workshop1.html", function(response, status, xhr) {
+				$("#agendaCon").load("workshop1.html", function(response, status, xhr) {
 					if(status == "error")
 						alert(xhr.status + " " + xhr.statusText);
 				});
 			})
 			$("#agendaW2").click(function() {
-				$("#agenda").load("workshop2.html", function(response, status, xhr) {
+				$("#agendaCon").load("workshop2.html", function(response, status, xhr) {
 					if(status == "error")
 						alert(xhr.status + " " + xhr.statusText);
 				});
@@ -191,8 +192,9 @@ http://www.juvarabrera.com/
 	</div>
 	<ul class="nav">
 		<li><a href="index.html"><i class="icon home middle"></i>Home</a></li>
-		<li><a href="#details"><i class="icon favorite middle"></i>Event Details</a></li>
 		<li><a href="#about"><i class="icon list middle"></i>About WTM</a></li>
+		<li><a href="#details"><i class="icon favorite middle"></i>Event Details</a></li>
+		<li><a href="#agenda"><i class="icon alarm middle"></i>Agenda</a></li>
 		<li><a href="https://docs.google.com/forms/d/1vEbWxVCbaimXYtzflAHaOPAI7nis-xk0pCPww4pcUSI/viewform" target="_blank"><i class="icon assignment middle"></i>Register</a></li>
 	</ul>
 	<div class="wrapper">&copy Women TechMakers Manila 2016</div>

@@ -1,11 +1,19 @@
 $(document).ready(function() {
 	$("header ul.nav").height($("header .wrapper").height());
 	$("#btnMenu").click(function() {
+		$("#blackTrans").show();
 		$(".slider").animate({
 			"left": "0px"
 		}, 400);
 	})
 	$(".slider .back").click(function() {
+		$("#blackTrans").hide();
+		$(".slider").animate({
+			"left": "-350px"
+		}, 400);
+	})
+	$(".slider a").click(function() {
+		$("#blackTrans").hide();
 		$(".slider").animate({
 			"left": "-350px"
 		}, 400);
@@ -18,6 +26,26 @@ $(document).ready(function() {
 	$( "#map").mouseleave(function() {
 		$('#map iframe').css("pointer-events", "none"); 
 	});
+	$("#agendaP").click(function() {
+		$("#agendaCon").load("agenda/plenary.html");
+	})
+	$("#agendaW1").click(function() {
+		$("#agendaCon").load("agenda/workshop1.html");
+	})
+	$("#agendaW2").click(function() {
+		$("#agendaCon").load("agenda/workshop2.html");
+	})
+
+
+	$("#blackTrans").click(function() {
+		$("#blackTrans").hide();
+		$(".slider").animate({
+			"left": "-350px"
+		}, 400);
+		$("#speaker_info").css({
+			"bottom": "-"+$(this).height()+"px"
+		})
+	})
 })
 $(window).resize(function() {
 	responsive();
@@ -34,6 +62,14 @@ function responsive() {
 		$("header .menu").hide();
 		$("header .brand-logo").width(300);
 	}
+}
+function showSpeaker($speaker) {
+	$("#blackTrans").show();
+	$("#speaker_info").load("speakers/"+$speaker+".html", function() {
+		$("#speaker_info").css({
+			"bottom": "0px"
+		})
+	})
 }
 /*
 var images = [];

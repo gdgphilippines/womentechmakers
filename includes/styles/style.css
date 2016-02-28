@@ -2,7 +2,16 @@
 	cursor: pointer;
 }
 * {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box; 
+	-ms-box-sizing: border-box;
+	-o-box-sizing: border-box; 
 	box-sizing: border-box;
+	-webkit-transition: all .2s ease-in-out; 
+	-moz-transition: all .2s ease-in-out; 
+	-ms-transition: all .2s ease-in-out; 
+	-o-transition: all .2s ease-in-out; 
+	transition: all .2s ease-in-out;
 }
 a {
 	color: inherit;
@@ -5881,6 +5890,7 @@ i.icon {
 	text-align: right;
 }
 a.raised_button {
+	cursor: pointer;
 	background-color: #00bfa5;
 	background-image: url(../images/cover.jpg);
 	background-size: cover;
@@ -5899,6 +5909,9 @@ a.raised_button.large {
 	font-size: 30px;
 	padding: 20px;
 	font-weight: 700;
+}
+a.raised_button.block {
+	display: block;
 }
 .filter {
 	position: absolute;
@@ -6186,6 +6199,42 @@ i.wtm {
 	left: 0px;
 	background: transparent;
 }
+table.agenda {
+	width: 100%;
+	border-collapse: collapse;
+	background: rgba(255,255,255,.4);
+	border-radius: 15px;
+	font-size: 16px;
+	cursor: pointer;
+	overflow: hidden;
+	box-shadow: 0px 0px 20px rgba(0,0,0,.1);
+}
+table.agenda img {
+	width: 30px;
+	border-radius: 100%;
+	vertical-align: middle;
+	display: inline-block;
+	margin-left: 10px;
+}
+
+table.agenda td {
+	padding: 20px;
+}
+table.agenda tr td:first-child {
+	color: #3a7cec;
+	font-weight: bold;
+	min-width: 150px;
+}
+table.agenda tr:hover td {
+	color: white;
+}
+table.agenda tr:nth-child(2n+2):hover td {
+	background: #04c5a8;
+}
+table.agenda tr:nth-child(2n+1):hover td {
+	background: #2c97db;
+}
+
 @media screen and (max-width: 700px) {
 	.wrapper {
 		width: 100%;

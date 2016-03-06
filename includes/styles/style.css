@@ -6021,8 +6021,8 @@ header .raised_button {
 }
 section {
 	background: #f0f0f0;
-	padding-top: 80px;
-	padding-bottom: 80px;
+	padding-top: 50px;
+	padding-bottom: 60px;
 	color: #555;
 	position: relative;
 }

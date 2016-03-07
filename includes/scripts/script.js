@@ -35,6 +35,9 @@ $(document).ready(function() {
 	$("#agendaW2").click(function() {
 		$("#agendaCon").load("agenda/workshop2.html");
 	})
+	$("#agendaW3").click(function() {
+		$("#agendaCon").load("agenda/workshop3.html");
+	})	
 
 
 	$("#blackTrans").click(function() {

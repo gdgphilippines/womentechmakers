@@ -6059,7 +6059,7 @@ section[name="sponsors"] img {
 	vertical-align: middle;
 }
 footer {
-	background: #333;
+	background: #f0f0f0;
 	color: white;
 	font-size: 85%;
 	overflow: hidden;
@@ -6272,7 +6272,7 @@ table.agenda tr:nth-child(2n+1):hover td {
 	color: #3a7cec;
 	text-align: center;
 }
-#speaker_info img {
+#speaker_info img:not(.nodesign) {
 	width: 60%;
 	margin: 20px auto;
 	display: block;
@@ -6285,7 +6285,7 @@ table.agenda tr:nth-child(2n+1):hover td {
 	font-size: 14px;
 	line-height: 150%;
 }
-a.speaker {
+a.speaker img {
 	margin-right: 10px;
 }
 @media screen and (max-width: 700px) {

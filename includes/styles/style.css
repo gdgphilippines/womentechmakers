@@ -6288,6 +6288,12 @@ table.agenda tr:nth-child(2n+1):hover td {
 a.speaker img {
 	margin-right: 10px;
 }
+.speaker-list img {
+	border-radius: 100%;
+}
+.speaker-list {
+	padding: 0px 15px;
+}
 @media screen and (max-width: 700px) {
 	.wrapper {
 		width: 100%;

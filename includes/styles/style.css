@@ -6230,7 +6230,12 @@ table.agenda img:not(.nodesign) {
 	display: inline-block;
 	margin-left: 10px;
 }
-
+table.agenda img.nodesign {
+	margin-right: 10px;
+	vertical-align: middle;
+	display: inline-block;
+	margin-left: 10px;
+}
 table.agenda td {
 	padding: 20px;
 }

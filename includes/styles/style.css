@@ -6290,9 +6290,6 @@ table.agenda tr:nth-child(2n+1):hover td {
 	font-size: 14px;
 	line-height: 150%;
 }
-a.speaker img {
-	margin-right: 10px;
-}
 .speaker-list img {
 	border-radius: 100%;
 }
@@ -6323,5 +6320,8 @@ a.speaker img {
 @media screen and (max-width: 500px) {
 	header .text-title {
 		font-size: 48px !important;
+	}
+	.hide-in-mobile {
+		display: none;
 	}
 }

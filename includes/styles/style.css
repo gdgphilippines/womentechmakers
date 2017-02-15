@@ -5895,6 +5895,7 @@ a.raised_button {
 	background-image: url(../images/cover.jpg);
 	background-size: cover;
 	padding: 15px;
+	font-family: 'Roboto';
 	text-transform: uppercase;
 	font-weight: 500;
 	border-radius: 5px;
@@ -5993,6 +5994,10 @@ header ul.nav li a {
 	-o-transition: all .2s ease-in-out; 
 	transition: all .2s ease-in-out;
 }
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Product Sans';
+	font-weight: 400;
+}
 header ul.nav li a:hover {
 	border-bottom: 5px solid rgba(255,255,255,.7);
 }
@@ -6005,6 +6010,7 @@ header .cover {
 }
 header .cover .text-title {
 	color: white;
+	font-family: 'Product Sans';
 	padding-top: 40px;
 	padding-bottom: 40px;
 	text-shadow: 0px 2px 2px rgba(0,0,0,.5);
@@ -6017,7 +6023,8 @@ header .scroller span {
 	white-space: nowrap;
 }
 header .raised_button {
-	font-size: 35px;
+	font-size: 28px;
+	padding: 18px;
 }
 section {
 	background: #f0f0f0;

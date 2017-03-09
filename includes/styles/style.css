@@ -6450,7 +6450,8 @@ table.agenda td {
 }
 table.agenda tr td:first-child {
 	color: #3a7cec;
-	font-weight: bold;
+	font-size: 18px;
+	font-weight: 300;
 	min-width: 150px;
 }
 table.agenda tr:hover td {

@@ -6469,9 +6469,9 @@ table.agenda tr:nth-child(2n+1):hover td {
 	height: 80%;
 	background: white;
 	bottom: -1000px;
-	box-shadow: 0px 0px 20px rgba(0,0,0,.5);
+	box-shadow: 0px 0px 15px rgba(0,0,0,.2);
 	left: 50%;
-	border-radius: 15px 15px 0px 0px;
+	border-radius: 3px 3px 0px 0px;
 	margin-left: -180px;
 	padding: 20px;
 	overflow-y: scroll;
@@ -6497,11 +6497,20 @@ table.agenda tr:nth-child(2n+1):hover td {
 	border: 5px solid #3a7cec;
 }
 #speaker_info p {
-	font-size: 14px;
+	font-size: 13px;
+	color: #666;
 	line-height: 150%;
+}
+.speaker-list p {
+	font-size: 12px;
+	color: #666;
+	margin: 0px;
+	margin-bottom: 24px;
 }
 .speaker-list img {
 	border-radius: 100%;
+	box-shadow: 0px 3px 4px rgba(0,0,0,.2);
+	width: 130px;
 }
 .speaker-list {
 	padding: 0px 15px;

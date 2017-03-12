@@ -6263,6 +6263,10 @@ section .wrapper {
 	padding: 20px;
 	overflow: hidden;
 }
+section[name="sponsors"] {
+	font-family: 'Open Sans';
+	color: #888;
+}
 section[name="sponsors"] img {
 	margin: 20px;
 	vertical-align: middle;

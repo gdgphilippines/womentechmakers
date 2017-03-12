@@ -183,18 +183,6 @@ http://www.juvarabrera.com/
 							'</center>' +
 						'</div>');
 					}
-					resizeCards();
-					$(window).resize(function() {
-						resizeCards();
-					})
-					function resizeCards() {
-						var maxheight = 0;
-						$("#speakersContainer .speaker-list").each(function() {
-							if($(this).outerHeight() > maxheight)
-								maxheight = $(this).outerHeight();
-						});
-						$("#speakersContainer .speaker-list").outerHeight(maxheight+"px");
-					}
 				})
 			</script>
 		</div>

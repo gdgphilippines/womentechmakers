@@ -6527,6 +6527,7 @@ table.agenda tr:nth-child(2n+1):hover td {
 	width: 130px;
 }
 .speaker-list {
+	height: 320px;
 	padding: 0px 15px;
 }
 @media screen and (max-width: 700px) {

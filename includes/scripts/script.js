@@ -141,7 +141,7 @@ var Data = {
 			"desc": ""
 		},
 		"raspi": {
-			"name": "Introduction to Rasberry Pi + Firebase",
+			"name": "Introduction to Game Development",
 			"by": "Women Who Code",
 			"desc": ""
 		}

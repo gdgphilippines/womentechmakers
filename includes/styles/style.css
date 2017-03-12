@@ -6425,12 +6425,12 @@ i.wtm {
 table.agenda {
 	width: 100%;
 	border-collapse: collapse;
-	background: rgba(255,255,255,.4);
-	border-radius: 15px;
+	background: white;
+	border-radius: 2px;
 	font-size: 16px;
 	cursor: pointer;
 	overflow: hidden;
-	box-shadow: 0px 0px 20px rgba(0,0,0,.1);
+	box-shadow: 0px 3px 4px rgba(0,0,0,.2);
 }
 table.agenda img:not(.nodesign) {
 	width: 30px;
@@ -6497,9 +6497,23 @@ table.agenda tr:nth-child(2n+1):hover td {
 	border: 5px solid #3a7cec;
 }
 #speaker_info p {
+	font-size: 14px;
+	color: #666;
+	line-height: 150%;
+}
+#speaker_info i {
 	font-size: 13px;
 	color: #666;
 	line-height: 150%;
+}
+.talk {
+	margin-left: 12px;
+	text-transform: uppercase;
+	background: #666;
+	color: white;
+	font-size: 12px;
+	padding: 6px 8px;
+	border-radius: 2px;
 }
 .speaker-list p {
 	font-size: 12px;

@@ -6267,6 +6267,9 @@ section[name="sponsors"] {
 	font-family: 'Open Sans';
 	color: #888;
 }
+section[name="sponsors"] div {
+	padding: 24px 0px;
+}
 section[name="sponsors"] img {
 	margin: 20px;
 	vertical-align: middle;

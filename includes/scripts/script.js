@@ -159,27 +159,27 @@ var Data = {
 				"ws": ""
 			}
 		},
-		"claudine-rodriguez": {
-			"name": "Claudine Rodriguez",
-			"title": "Good Code",
-			"bio": "Claudine usually has her mind wandering, thinking about ideas on how to solve problems from the mundane to the ambitious. She ties those mental loose ends by making things through Apparently, a studio she cofounded (one of their projects include Good Code, a pop-up coding school). On weekdays, she works as a UI/UX designer for Havas Ortega.",
+		"maricor-soriano": {
+			"name": "Maricor Soriano",
+			"title": "Physicist, University of the Philippines",
+			"bio": "Dr. Maricor Soriano is a physicist and a video and image processing expert from the University of the Philippines. She is one of the 2015 Leaders in Innovation Fellow of the UK-Newton Fund, the 2013 awardee of The Outstanding Women in the Nation's Service in Applied Physics, and 2006 Outstanding Young Scientist. She heads the Video and Image Processing Lab in which she trains the next generation of scientists to seek and solve global problems with locally appropriate solutions.",
 			"sm": {
-				"fb": "https://www.facebook.com/claudrod",
-				"tw": "https://twitter.com/claudrod",
-				"gp": "https://plus.google.com/117309955687874226351",
-				"li": "https://www.linkedin.com/in/claudrod",
-				"ws": "http://claudrod.me/"
-			}
-		},
-		"jonah-micah-mananghaya": {
-			"name": "Jonah Micah Mananghaya",
-			"title": "Globe Labs",
-			"bio": "",
-			"sm": {
-				"fb": "https://www.facebook.com/jonahmicah.mananghaya",
+				"fb": "",
 				"tw": "",
-				"gp": "https://plus.google.com/+JonahMicahMananghaya",
-				"li": "https://www.linkedin.com/in/jonah-mananghaya-276072a1",
+				"gp": "",
+				"li": "",
+				"ws": ""
+			}	
+		},
+		"kristine-mae-magtubo": {
+			"name": "Kristine Mae Magtubo",
+			"title": "University Researcher I, National Telehealth Center",
+			"bio": "Dr. Kristine Mae Magtubo graduated Doctor of Medicine from the University of the Philippines - College of Medicine in 2011. Entered the Doctors to the Barrios (DTTB) program of the Department of Health and served two municipalities in Samar and Leyte (2011-2013). While working in these areas, was introduced to telemedicine as a means of providing better health care to her patients in the barrios after graduation from the DTTB program (2013) joined the National Telehealth Center as the project manager of the RxBox, the country's largest eHealth research program she received training in technology commercialization from the Leaders in Innovation Fellowship of the UK Royal Academy of Engineering and the Asian Institute of Management, with support from the Department of Science and Technology, in 2015 and is now working on making the RxBox a sustainable platform for changing health care delivery in the country",
+			"sm": {
+				"fb": "",
+				"tw": "",
+				"gp": "",
+				"li": "https://ph.linkedin.com/in/kristinemaemd",
 				"ws": ""
 			}
 		},
@@ -255,18 +255,6 @@ var Data = {
 				"ws": ""
 			}
 		},
-		"maricor-soriano": {
-			"name": "Maricor Soriano",
-			"title": "Physicist, University of the Philippines",
-			"bio": "Dr. Maricor Soriano is a physicist and a video and image processing expert from the University of the Philippines. She is one of the 2015 Leaders in Innovation Fellow of the UK-Newton Fund, the 2013 awardee of The Outstanding Women in the Nation's Service in Applied Physics, and 2006 Outstanding Young Scientist. She heads the Video and Image Processing Lab in which she trains the next generation of scientists to seek and solve global problems with locally appropriate solutions.",
-			"sm": {
-				"fb": "",
-				"tw": "",
-				"gp": "",
-				"li": "",
-				"ws": ""
-			}	
-		},
 		"kristine-mae-adlaon": {
 			"name": "Kristine Mae Adlaon",
 			"title": "Faculty, University of the Immaculate Conception - Davao",
@@ -279,18 +267,30 @@ var Data = {
 				"ws": "http://kristine-adlaon.blogspot.com/"
 			}
 		},
-		"kristine-mae-magtubo": {
-			"name": "Kristine Mae Magtubo",
-			"title": "University Researcher I, National Telehealth Center",
-			"bio": "Dr. Kristine Mae Magtubo graduated Doctor of Medicine from the University of the Philippines - College of Medicine in 2011. Entered the Doctors to the Barrios (DTTB) program of the Department of Health and served two municipalities in Samar and Leyte (2011-2013). While working in these areas, was introduced to telemedicine as a means of providing better health care to her patients in the barrios after graduation from the DTTB program (2013) joined the National Telehealth Center as the project manager of the RxBox, the country's largest eHealth research program she received training in technology commercialization from the Leaders in Innovation Fellowship of the UK Royal Academy of Engineering and the Asian Institute of Management, with support from the Department of Science and Technology, in 2015 and is now working on making the RxBox a sustainable platform for changing health care delivery in the country",
+		"claudine-rodriguez": {
+			"name": "Claudine Rodriguez",
+			"title": "Good Code",
+			"bio": "Claudine usually has her mind wandering, thinking about ideas on how to solve problems from the mundane to the ambitious. She ties those mental loose ends by making things through Apparently, a studio she cofounded (one of their projects include Good Code, a pop-up coding school). On weekdays, she works as a UI/UX designer for Havas Ortega.",
 			"sm": {
-				"fb": "",
+				"fb": "https://www.facebook.com/claudrod",
+				"tw": "https://twitter.com/claudrod",
+				"gp": "https://plus.google.com/117309955687874226351",
+				"li": "https://www.linkedin.com/in/claudrod",
+				"ws": "http://claudrod.me/"
+			}
+		},
+		"jonah-micah-mananghaya": {
+			"name": "Jonah Micah Mananghaya",
+			"title": "Globe Labs",
+			"bio": "",
+			"sm": {
+				"fb": "https://www.facebook.com/jonahmicah.mananghaya",
 				"tw": "",
-				"gp": "",
-				"li": "https://ph.linkedin.com/in/kristinemaemd",
+				"gp": "https://plus.google.com/+JonahMicahMananghaya",
+				"li": "https://www.linkedin.com/in/jonah-mananghaya-276072a1",
 				"ws": ""
 			}
-		}
+		},
 	},
 	"community": {
 		"good-code": {

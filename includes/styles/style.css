@@ -6500,7 +6500,7 @@ table.agenda tr:nth-child(2n+1):hover td {
 	border-radius: 100%;
 	border: 5px solid #3a7cec;
 }
-#speaker_info p {
+#speaker_info p, #speaker_info li {
 	font-size: 14px;
 	color: #666;
 	line-height: 150%;

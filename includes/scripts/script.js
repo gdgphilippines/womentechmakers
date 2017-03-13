@@ -142,8 +142,8 @@ var Data = {
 		},
 		"raspi": {
 			"name": "Introduction to Game Development",
-			"by": "Women Who Code",
-			"desc": ""
+			"by": "Jeanette Balansag with Women Who Code Manila Team",
+			"desc": "This is for the ladies who are interested to learn more about Game Development. We will introduce you to Unity3D and how to create your first Game with Unity3D.<br><br><b>Pre-requisite knowledge</b><br>Everyone is welcome to join as long as you can read and write and you want to learn more about Game Development, you're good to go! :)<br><br><b>Things that you need:</b><br><ul><li>Laptop (Windows or Mac is ok)</li><li>Download <a href=\"https://unity3d.com/\" target=\"_blank\">Unity3D</a></li><li>Personal Account on Unity3D</li></ul>"
 		}
 	},
 	"speakers": {
@@ -156,6 +156,78 @@ var Data = {
 				"tw": "https://twitter.com/ambe_tierro",
 				"gp": "https://plus.google.com/117856442438901617769",
 				"li": "https://www.linkedin.com/in/ambetierro",
+				"ws": ""
+			}
+		},
+		"michie-ang": {
+			"name": "Michie Ang",
+			"title": "Director of Women Who Code Manila",
+			"bio": "Michie is a nurse who stumbled into the programming world. Being able to experience the cultures, events, and excitement towards learning and building new things in different areas of the world, she wanted to give the same experience & opportunity to her country. This is the reason why she decided to start Women Who Code in the Philippines and more. Currently, she teaches kids how to code and helps integrates the coding curriculum to some schools (Grade School/HS Level) in the Philippines. She's also the co-founder of TecsoftApps. ",
+			"sm": {
+				"fb": "",
+				"tw": "",
+				"gp": "",
+				"li": "",
+				"ws": ""
+			}
+		},
+		"anj-cerbolles": {
+			"name": "Anj Cerbolles",
+			"title": "Director of Women Who Code Manila",
+			"bio": "Anj is a Sharepoint Developer at Re:Sources Philippines. She wanted more women to be visible in the tech events and conferences that is why she wanted to start Women Who Code Manila.",
+			"sm": {
+				"fb": "",
+				"tw": "",
+				"gp": "",
+				"li": "",
+				"ws": ""
+			}
+		},
+		"christine-balanaa": {
+			"name": "Christine Balanaa",
+			"title": "WWCodeManila, Android Tech Lead",
+			"bio": "Christine works as a Java Developer at Pointwest Technologies. She likes programming because of the many opportunities it offer to learn something new.",
+			"sm": {
+				"fb": "",
+				"tw": "",
+				"gp": "",
+				"li": "",
+				"ws": ""
+			}
+		},
+		"kristine-joy-paas": {
+			"name": "Kristine Joy Paas",
+			"title": "WWCodeManila, Ruby on Rails Tech Lead",
+			"bio": "Joy is a web developer at Quipper Limited. She is a self-taught programmer. She started programming as a hobby but eventually fell in love with it since it enables her to building things. Joy wants to help other people discover the beauty of code.",
+			"sm": {
+				"fb": "",
+				"tw": "",
+				"gp": "",
+				"li": "",
+				"ws": ""
+			}
+		},
+		"nicole-tibay": {
+			"name": "Nicole Tibay",
+			"title": "WWCodeManila, Python Tech Lead",
+			"bio": "Nicole is a web developer at First Digital Finance Corporation. She got enchanted under the spell of PEP 20 -- The Zen of Python and decided to dump her 2-year SAP ABAP experience to venture on as a Python Dev in a financial start up company. This PyPrincess is haunted by midnight ideas of healthy foods and apps and practices the magic of pointillism with pen and paper as her weapon.​",
+			"sm": {
+				"fb": "",
+				"tw": "",
+				"gp": "",
+				"li": "",
+				"ws": ""
+			}
+		},
+		"jeanette-balansag": {
+			"name": "Jeanette Balansag",
+			"title": "Software Programmer",
+			"bio": "Jeanette has been working in IT industry for more than 4 years, mostly as a software QA slash programmer. Her interests outside IT include playing video games, doodling and calligraphy. After the grand launch of WWCode MNL, she noticed that there are non-IT professionals who attended. They inspired her to volunteer because she wants to help and encourage them to pursue their chosen career in IT. She also want to promote awareness amongst women that we can also excel in the IT world.",
+			"sm": {
+				"fb": "",
+				"tw": "",
+				"gp": "",
+				"li": "",
 				"ws": ""
 			}
 		},
@@ -200,6 +272,10 @@ var Data = {
 		"good-code": {
 			"name": "Good Code",
 			"bio": "Good Code is a pop-up coding school that aims to spread the word on the awesome and meaningful things computer programming can do. At the heart of Good Code is creating an environment for people to embrace coding literacy for improved learning approaches and, hopefully, a better chance to find job opportunities in the future.<br><Br>Good Code was inspired by the Hour of Code global movement (Hello, Mr. Partovi!). Our dream is to teach code in remote areas where programming or computer science courses are not part of the regular school curriculum."
+		},
+		"womenwhocode": {
+			"name": "Women Who Code Manila",
+			"bio": ""
 		}
 	}
 }

@@ -195,6 +195,18 @@ var Data = {
 				"ws": ""
 			}
 		},
+		"niaw-de-leon": {
+			"name": "Niaw de Leon",
+			"title": "Editor at Invent.ph",
+			"bio": "Niaw de Leon is a designer, developer, writer, and entrepreneur with 11 years' experience in IT, half of which were spent on technical roles, with the other half on design, marketing, and communication. In over 60 IT projects within the last decade, she's collected roles as if there were no tomorrow: she's been a framework coder, trainer, proposal writer, front-end developer, UI designer, UX practitioner, business analyst, SEO specialist, and marketing manager. Niaw combines her deep love for technology, an unbridled lust for communication, and a growing interest in cognitive science to help cross-disciplinary teams build sexy software that sells. When not working on technology projects, Niaw runs creative agency and production house Tempest Media as its co-founder. She's also the editor of Invent.ph, a publication that celebrates Philippine innovation. Niaw graduated with a B.S. Computer Science degree from University of the Philippines, Diliman.",
+			"sm": {
+				"fb": "",
+				"tw": "",
+				"gp": "",
+				"li": "",
+				"ws": ""
+			}
+		},
 		"anj-cerbolles": {
 			"name": "Anj Cerbolles",
 			"title": "Director of Women Who Code Manila",

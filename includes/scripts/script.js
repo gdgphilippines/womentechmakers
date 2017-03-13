@@ -126,24 +126,24 @@ function slideshow() {
 var Data = {
 	"talks": {
 		"intro-programming": {
-			"name": "Introduction to Programming",
+			"name": "Coding Basics with Python",
 			"by": "Good Code",
-			"desc": ""
+			"desc": "<b>About the Workshop</b><br>This class introduces the students to basics of coding through Python, a programming language that is widely used in a lot of data and web applications. This class is intended for beginners who have no experience with coding and are interested to try it out.<br><br><b>Things you'll need:</b><br><ul><li>Laptop</li></ul>"
 		},
 		"microcopy": {
-			"name": "MicroCopy",
-			"by": "UXPH",
-			"desc": ""
+			"name": "The Magic of Microcopy: Small Bits of Text That Give Life to Apps and Websites",
+			"by": "Niaw De Leon",
+			"desc": "<b>About the Workshop</b><br>Language is powerful. When used well, it helps sell products, influence behavior, and get things done. It's no different with technology. The phrases and sentences used in the design of software applications, websites, and hardware can radically change how people engage with the technology.<br><br>Microcopy consists of the headings, hint texts, placeholders, summaries, and instructions throughout a website or app.  These small pieces of content often get overlooked—to the detriment of the application or website you are building. And yet it is one of the ingredients that make the difference between tech that fades into obscurity and extremely successful products like Trello or Slack.<br><br><b>What you'll learn</b><br>At the end of this 2.5 hour workshop, you'll understand the power of microcopy through many real-life examples and  learn how to analyze microcopy for strengths and weaknesses, identify opportunities to use microcopy, and practice writing some microcopy.<br><br><b>Who Should Attend?</b><br>If your team is building an app, website, or hardware with a user interface, and you want to learn how to give your product an edge using the wonders of words, then this workshop is for you—whether you're a designer, manager, writer, developer, or marketer.<br><br><b>Pre-requisite knowledge</b><br>Basic knowledge apps or websites like the concepts of screens and pages."
 		},
 		"build-website": {
-			"name": "Building your own Website",
-			"by": "Philippine Web Design Organization",
-			"desc": ""
+			"name": "Speaking a New Language",
+			"by": "Philippine Web Designers Organization",
+			"desc": "<b>About the Workshop</b><br>Learning HTML for Web Design is like speaking a new language. Speaking to your browser through codes to create websites. This workshop will jumstart your skills in building websites!<br><br><b>Things you'll need:</b><br><ul><li>Laptop</li></ul>"
 		},
 		"raspi": {
 			"name": "Introduction to Game Development",
 			"by": "Jeanette Balansag with Women Who Code Manila Team",
-			"desc": "This is for the ladies who are interested to learn more about Game Development. We will introduce you to Unity3D and how to create your first Game with Unity3D.<br><br><b>Pre-requisite knowledge</b><br>Everyone is welcome to join as long as you can read and write and you want to learn more about Game Development, you're good to go! :)<br><br><b>Things that you need:</b><br><ul><li>Laptop (Windows or Mac is ok)</li><li>Download <a href=\"https://unity3d.com/\" target=\"_blank\">Unity3D</a></li><li>Personal Account on Unity3D</li></ul>"
+			"desc": "<b>About the Workshop</b><br>This is for the ladies who are interested to learn more about Game Development. We will introduce you to Unity3D and how to create your first Game with Unity3D.<br><br><b>Pre-requisite knowledge</b><br>Everyone is welcome to join as long as you can read and write and you want to learn more about Game Development, you're good to go! :)<br><br><b>Things that you need:</b><br><ul><li>Laptop (Windows or Mac is ok)</li><li>Download <a href=\"https://unity3d.com/\" target=\"_blank\">Unity3D</a></li><li>Personal Account on Unity3D</li></ul>"
 		}
 	},
 	"speakers": {
@@ -156,6 +156,30 @@ var Data = {
 				"tw": "https://twitter.com/ambe_tierro",
 				"gp": "https://plus.google.com/117856442438901617769",
 				"li": "https://www.linkedin.com/in/ambetierro",
+				"ws": ""
+			}
+		},
+		"claudine-rodriguez": {
+			"name": "Claudine Rodriguez",
+			"title": "Good Code",
+			"bio": "Claudine usually has her mind wandering, thinking about ideas on how to solve problems from the mundane to the ambitious. She ties those mental loose ends by making things through Apparently, a studio she cofounded (one of their projects include Good Code, a pop-up coding school). On weekdays, she works as a UI/UX designer for Havas Ortega.",
+			"sm": {
+				"fb": "https://www.facebook.com/claudrod",
+				"tw": "https://twitter.com/claudrod",
+				"gp": "https://plus.google.com/117309955687874226351",
+				"li": "https://www.linkedin.com/in/claudrod",
+				"ws": "http://claudrod.me/"
+			}
+		},
+		"jonah-micah-mananghaya": {
+			"name": "Jonah Micah Mananghaya",
+			"title": "Globe Labs",
+			"bio": "",
+			"sm": {
+				"fb": "https://www.facebook.com/jonahmicah.mananghaya",
+				"tw": "",
+				"gp": "https://plus.google.com/+JonahMicahMananghaya",
+				"li": "https://www.linkedin.com/in/jonah-mananghaya-276072a1",
 				"ws": ""
 			}
 		},
@@ -221,7 +245,7 @@ var Data = {
 		},
 		"jeanette-balansag": {
 			"name": "Jeanette Balansag",
-			"title": "Software Programmer",
+			"title": "WWCodeManila, Game Dev Tech Lead",
 			"bio": "Jeanette has been working in IT industry for more than 4 years, mostly as a software QA slash programmer. Her interests outside IT include playing video games, doodling and calligraphy. After the grand launch of WWCode MNL, she noticed that there are non-IT professionals who attended. They inspired her to volunteer because she wants to help and encourage them to pursue their chosen career in IT. She also want to promote awareness amongst women that we can also excel in the IT world.",
 			"sm": {
 				"fb": "",
@@ -276,6 +300,10 @@ var Data = {
 		"womenwhocode": {
 			"name": "Women Who Code Manila",
 			"bio": ""
+		},
+		"pwdo": {
+			"name": "Philippine Web Designers Organization",
+			"bio": "The Philippine Web Designers Organization is a grassroots, volunteer-run, non-profit organization that helps develop the local community by championing professionalism & excellence in crafting interfaces for the Web.<br><br>We are a group of enthusiasts and professionals who create human interfaces for the web, champion the use of standards, accessibility, & usability, and aim to uplift the state of web design in the country. <br><br<We organize events like the <form> function() & .class conference, as well as meetups, roadshows, seminars, workshops, and hackathons."
 		}
 	}
 }

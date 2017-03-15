@@ -133,7 +133,7 @@ var Data = {
 		"microcopy": {
 			"name": "The Magic of Microcopy: Small Bits of Text That Give Life to Apps and Websites",
 			"by": "Niaw De Leon",
-			"desc": "<b>About the Workshop</b><br>Language is powerful. When used well, it helps sell products, influence behavior, and get things done. It's no different with technology. The phrases and sentences used in the design of software applications, websites, and hardware can radically change how people engage with the technology.<br><br>Microcopy consists of the headings, hint texts, placeholders, summaries, and instructions throughout a website or app.  These small pieces of content often get overlooked—to the detriment of the application or website you are building. And yet it is one of the ingredients that make the difference between tech that fades into obscurity and extremely successful products like Trello or Slack.<br><br><b>What you'll learn</b><br>At the end of this 2.5 hour workshop, you'll understand the power of microcopy through many real-life examples and  learn how to analyze microcopy for strengths and weaknesses, identify opportunities to use microcopy, and practice writing some microcopy.<br><br><b>Who Should Attend?</b><br>If your team is building an app, website, or hardware with a user interface, and you want to learn how to give your product an edge using the wonders of words, then this workshop is for you—whether you're a designer, manager, writer, developer, or marketer.<br><br><b>Pre-requisite knowledge</b><br>Basic knowledge apps or websites like the concepts of screens and pages."
+			"desc": "<b>About the Workshop</b><br>Language is powerful. When used well, it helps sell products, influence behavior, and get things done. It's no different with technology. The phrases and sentences used in the design of software applications, websites, and hardware can radically change how people engage with the technology.<br><br>Microcopy consists of the headings, hint texts, placeholders, summaries, and instructions throughout a website or app.  These small pieces of content often get overlooked—to the detriment of the application or website you are building. And yet it is one of the ingredients that make the difference between tech that fades into obscurity and extremely successful products like Trello or Slack.<br><br><b>What you'll learn</b><br>At the end of this 2.5 hour workshop, you'll understand the power of microcopy through many real-life examples and  learn how to analyze microcopy for strengths and weaknesses, identify opportunities to use microcopy, and practice writing some microcopy.<br><br><b>Who Should Attend?</b><br>If your team is building an app, website, or hardware with a user interface, and you want to learn how to give your product an edge using the wonders of words, then this workshop is for you—whether you're a designer, manager, writer, developer, or marketer.<br><br><b>Pre-requisite knowledge</b><br>Basic knowledge apps or websites like the concepts of screens and pages.<br><br><b>What you'll need</b><br><ul><li>Laptop</li><li>Smartphone or tablet with your favorite apps or apps that you're working on so we can analyze them together</li></ul>"
 		},
 		"build-website": {
 			"name": "Speaking a New Language",
@@ -291,6 +291,30 @@ var Data = {
 				"ws": "http://claudrod.me/"
 			}
 		},
+		"carl-myer-flor": {
+			"name": "Carl-Myer Flor",
+			"title": "Web and Mobile App Developer, Proudcloud",
+			"bio": "Carl is all about solving problems. Using technology, he loves making things that aim to give value to others. He codes for a living as a web and mobile app developer at Proudcloud, a Ruby on Rails and Javascript studio based in Manila. He believes that learning how to code can truly empower people to build solutions. This has led him to start Good Code, a pop-coding coding school, teaching coding fundamentals to anyone of any age or background. When he's not teaching or coding, he's most likely dancing.",
+			"sm": {
+				"fb": "",
+				"tw": "",
+				"gp": "",
+				"li": "",
+				"ws": ""
+			}
+		},
+		"jenifer-cristobal": {
+			"name": "Jenifer Cristobal",
+			"title": "Good Code",
+			"bio": "As a technology and vocational teacher in a public high school, Jhen is truly passionate about education and technology, and making sure everyone gets access to them.  Her experience in Technokids Philippines and St. Scholastica's College Manila, as a computer teacher, has helped her be proficient in teaching Scratch, basic HTML + CSS, Visual Basic programming, and robotics to children. Currently, Jhen co-develops basic coding curriculums and teaches for Good Code, a pop-up coding school. She enjoys dabbling in baking and singing for weddings during her spare time.",
+			"sm": {
+				"fb": "",
+				"tw": "",
+				"gp": "",
+				"li": "",
+				"ws": ""
+			}
+		},
 		"jonah-micah-mananghaya": {
 			"name": "Jonah Micah Mananghaya",
 			"title": "Globe Labs",
@@ -307,7 +331,7 @@ var Data = {
 	"community": {
 		"good-code": {
 			"name": "Good Code",
-			"bio": "Good Code is a pop-up coding school that aims to spread the word on the awesome and meaningful things computer programming can do. At the heart of Good Code is creating an environment for people to embrace coding literacy for improved learning approaches and, hopefully, a better chance to find job opportunities in the future.<br><Br>Good Code was inspired by the Hour of Code global movement (Hello, Mr. Partovi!). Our dream is to teach code in remote areas where programming or computer science courses are not part of the regular school curriculum."
+			"bio": "Good Code is a pop-up coding school that aims to spread the word on the awesome things one can do with the knowledge of computer programming. Our mission is to educate anyone, regardless of age and background, on coding for creating meaningful builds that have the potential to solve problems. We make sure our classes are collaborative, purposeful, inclusive, iterative, and fun! (<a href=\"www.goodcode.xyz\" target=\"_blank\">goodcode.xyz</a>)"
 		},
 		"womenwhocode": {
 			"name": "Women Who Code Manila",

@@ -126,8 +126,8 @@ function slideshow() {
 var Data = {
 	"talks": {
 		"intro-programming": {
-			"name": "Coding Basics with Python",
-			"by": "Good Code",
+			"name": "Basic Coding with Python",
+			"by": "Carl-Myer Flor and Jenifer Cristobal from Good Code",
 			"desc": "<b>About the Workshop</b><br>This class introduces the students to basics of coding through Python, a programming language that is widely used in a lot of data and web applications. This class is intended for beginners who have no experience with coding and are interested to try it out.<br><br><b>Things you'll need:</b><br><ul><li>Laptop</li></ul>"
 		},
 		"microcopy": {
@@ -281,8 +281,8 @@ var Data = {
 		},
 		"claudine-rodriguez": {
 			"name": "Claudine Rodriguez",
-			"title": "Good Code",
-			"bio": "Claudine usually has her mind wandering, thinking about ideas on how to solve problems from the mundane to the ambitious. She ties those mental loose ends by making things through Apparently, a studio she cofounded (one of their projects include Good Code, a pop-up coding school). On weekdays, she works as a UI/UX designer for Havas Ortega.",
+			"title": "UX/UI Design at Havas Ortega",
+			"bio": "Claudine co-founded Good Code, a pop-up coding school, out of her desire to help people make meaningful things with technology. While her day job calls her to do UX design for one of the major advertising agencies in the country, she generally is just a design/maker dork. Cats, coffee, and jazz music are some of her best friends.",
 			"sm": {
 				"fb": "https://www.facebook.com/claudrod",
 				"tw": "https://twitter.com/claudrod",
@@ -293,7 +293,7 @@ var Data = {
 		},
 		"carl-myer-flor": {
 			"name": "Carl-Myer Flor",
-			"title": "Web and Mobile App Developer, Proudcloud",
+			"title": "Co-founder, Good Code",
 			"bio": "Carl is all about solving problems. Using technology, he loves making things that aim to give value to others. He codes for a living as a web and mobile app developer at Proudcloud, a Ruby on Rails and Javascript studio based in Manila. He believes that learning how to code can truly empower people to build solutions. This has led him to start Good Code, a pop-coding coding school, teaching coding fundamentals to anyone of any age or background. When he's not teaching or coding, he's most likely dancing.",
 			"sm": {
 				"fb": "",
@@ -305,7 +305,7 @@ var Data = {
 		},
 		"jenifer-cristobal": {
 			"name": "Jenifer Cristobal",
-			"title": "Good Code",
+			"title": "Teacher and Course Developer, Good Code",
 			"bio": "As a technology and vocational teacher in a public high school, Jhen is truly passionate about education and technology, and making sure everyone gets access to them.  Her experience in Technokids Philippines and St. Scholastica's College Manila, as a computer teacher, has helped her be proficient in teaching Scratch, basic HTML + CSS, Visual Basic programming, and robotics to children. Currently, Jhen co-develops basic coding curriculums and teaches for Good Code, a pop-up coding school. She enjoys dabbling in baking and singing for weddings during her spare time.",
 			"sm": {
 				"fb": "",
@@ -331,7 +331,7 @@ var Data = {
 	"community": {
 		"good-code": {
 			"name": "Good Code",
-			"bio": "Good Code is a pop-up coding school that aims to spread the word on the awesome things one can do with the knowledge of computer programming. Our mission is to educate anyone, regardless of age and background, on coding for creating meaningful builds that have the potential to solve problems. We make sure our classes are collaborative, purposeful, inclusive, iterative, and fun! (<a href=\"www.goodcode.xyz\" target=\"_blank\">goodcode.xyz</a>)"
+			"bio": "Good Code is a pop-up coding school that aims to spread the word on the awesome things one can do with the knowledge of computer programming. Our mission is to educate anyone, regardless of age and background, on coding for creating meaningful builds that have the potential to solve problems. We make sure our classes are collaborative, purposeful, inclusive, and fun! (<a href=\"www.goodcode.xyz\" target=\"_blank\">goodcode.xyz</a>)"
 		},
 		"womenwhocode": {
 			"name": "Women Who Code Manila",

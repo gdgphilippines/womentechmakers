@@ -281,7 +281,7 @@ var Data = {
 		},
 		"claudine-rodriguez": {
 			"name": "Claudine Rodriguez",
-			"title": "UX/UI Design at Havas Ortega",
+			"title": "Co-Founder at Good Code",
 			"bio": "Claudine co-founded Good Code, a pop-up coding school, out of her desire to help people make meaningful things with technology. While her day job calls her to do UX design for one of the major advertising agencies in the country, she generally is just a design/maker dork. Cats, coffee, and jazz music are some of her best friends.",
 			"sm": {
 				"fb": "https://www.facebook.com/claudrod",

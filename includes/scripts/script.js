@@ -327,8 +327,8 @@ var Data = {
 				"ws": ""
 			}
 		},
-		"angelita-ricardo": {
-			"name": "Angelita Ricardo",
+		"angelica-ricardo": {
+			"name": "Angelica Ricardo",
 			"title": "Co-founder, UST Coder's Development Circle",
 			"bio": "Angelica is a graduating student of Information Systems at the University of Santo Tomas. She is a member of the Philippine Web Designers Organization and a co-founder of UST Coder’s Development Circle.",
 			"sm": {

@@ -15,7 +15,7 @@ http://www.juvarabrera.com/
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Women Techmakers Manila 2017" />
-	<meta property="og:url" content="http://www.gdgph.org" />
+	<meta property="og:url" content="http://womentechmakers.gdgph.org" />
 	<meta property="og:site_name" content="Women Techmakers Manila 2017" />
 	<meta property="og:image" content="http://womentechmakers.gdgph.org/includes/images/slideshow/1.jpg" />
 	<meta name="twitter:site" content="@gdgphilippines" />
@@ -31,6 +31,47 @@ http://www.juvarabrera.com/
 	<meta name="keywords" content="Women Techmakers is Google's brand and global program for women in technology. Women Techmakers provides visibility, community, and resources for women in technology to drive innovation and participation in the field. Women Techmakers events are designed to promote an environment of inclusivity for women in technology, as well as celebrate women leading the industry. We want to advance, grow, and celebrate women developers, designers, and technology entrepreneurs. 1000StrongFilipinas 1000 Strong Filipinas Designers, Developers, andTechnology entrepreneurs, both men and women, who are interested in celebrating International Women's Day">
 </head>
 <body>
+<div class="red white-text">
+	<table cellpadding="12px" width="100%">
+		<tr>
+			<td>Flash ticket application ends in <span id="timer"></span></td>
+			<td align="right"><a href="#" class="raised_button">Apply now!</a></td>
+		</tr>
+	</table>
+</div>
+<script>
+var deadline = 'March 19 2017 23:59:59 GMT+08:00';
+function getTimeRemaining(endtime){
+var t = Date.parse(endtime) - Date.now();
+var seconds = Math.floor( (t/1000) % 60 );
+var minutes = Math.floor( (t/1000/60) % 60 );
+var hours = Math.floor( (t/(1000*60*60)) % 24 );
+var days = Math.floor( t/(1000*60*60*24) );
+return {
+'total': t,
+'days': days,
+'hours': hours,
+'minutes': minutes,
+'seconds': seconds
+};
+}
+function initializeClock(id, endtime){
+var clock = document.getElementById(id);
+var timeinterval = setInterval(function(){
+var t = getTimeRemaining(endtime);
+t.hours = t.hours + (t.days*24);
+if(t.minutes < 10)
+t.minutes = "0" + t.minutes;
+if(t.seconds < 10)
+t.seconds = "0" + t.seconds;
+clock.innerHTML = t.hours + "h " + t.minutes + "m " + t.seconds+"s";
+if(t.total<=0){
+clearInterval(timeinterval);
+}
+},1000);
+}
+initializeClock("timer", deadline);
+</script>
 <header style="background-image: url(includes/images/slideshow/1.jpg)">
 	<div class="filter"></div>
 	<div class="wrapper">
@@ -59,7 +100,7 @@ http://www.juvarabrera.com/
 				<span>Innovator?</span>
 				<span>Inventor?</span>
 			</div><br>
-			<a href="https://www.meetup.com/gdgphilippines/events/238312249/" target="_blank" class="raised_button">Register now!</a>
+			<a href="https://www.meetup.com/gdgphilippines/events/238312249/" target="_blank" class="raised_button">Apply now!</a>
 		</div>
 	</div>
 </header>
@@ -72,8 +113,14 @@ http://www.juvarabrera.com/
 				<h1 class="teal-text lighten-2">Telling Our Story</h1>
 				</center>
 			</div>
-			<div class="col-6 mob-res"><h1 style="font-size: 50px">March 25, 2017</h1><h3>The Forum, The Globe Tower, Bonifacio Global City, Taguig City</h3>Save the date!
-			<br><br><br><a href="https://www.meetup.com/gdgphilippines/events/238312249/" target="_blank" class="raised_button medium">Register now!</a></div>
+			<div class="col-6 mob-res">
+				<h1 style="font-size: 50px">March 25, 2017</h1>
+				<h3>The Forum, The Globe Tower, Bonifacio Global City, Taguig City</h3>
+				Save the date!
+				<br><br><br>
+				<a href="https://www.meetup.com/gdgphilippines/events/238312249/" target="_blank" class="raised_button medium">Apply now!</a><br><br>
+				<a href="https://www.meetup.com/gdgphilippines/events/238312249/" target="_blank"><img src="includes/images/sponsors/meetup.png" height="36px"></a>
+			</div>
 		</div>
 	</div>
 </section>
@@ -321,7 +368,7 @@ http://www.juvarabrera.com/
 		<li><a href="#details"><i class="icon favorite middle"></i>Event Details</a></li>
 		<li><a href="#agenda"><i class="icon alarm middle"></i>Agenda</a></li>
 		<li><a href="#about"><i class="icon list middle"></i>About WTM</a></li>
-		<li><a href="#registrationlink" target="_blank"><i class="icon assignment middle"></i>Register</a></li>
+		<li><a href="https://www.meetup.com/gdgphilippines/events/238312249/" target="_blank"><i class="icon assignment middle"></i>Apply now</a></li>
 	</ul>
 	<div class="wrapper">&copy Women TechMakers Manila 2017</div>
 </div>

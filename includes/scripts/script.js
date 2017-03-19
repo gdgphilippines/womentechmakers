@@ -207,6 +207,18 @@ var Data = {
 				"ws": ""
 			}
 		},
+		"chow-paredes": {
+			"name": "Chow Paredes",
+			"title": "Co-Founder and Chief Revenue Officer at ZipMatch",
+			"bio": "Chow Paredes is the Co-Founder and Chief Revenue Officer at ZipMatch. A practicing Licensed Real Estate Broker, she specializes in property sales in key areas including Makati and Bonifacio Global City. Her experience as a sales director for 8 years gives her an extensive understanding of buyer behavior, sales people skill optimization, and the real estate sales process in the Philippines. She graduated from De La Salle–College of Saint Benilde with a degree in Interdisciplinary Studies.",
+			"sm": {
+				"fb": "https://www.facebook.com/chow.paredes",
+				"tw": "https://twitter.com/chowparedes",
+				"gp": "https://plus.google.com/+ChowParedeszipmatch",
+				"li": "https://ph.linkedin.com/in/chowparedes",
+				"ws": ""
+			}
+		},
 		"michie-ang": {
 			"name": "Michie Ang",
 			"title": "Director of Women Who Code Manila",

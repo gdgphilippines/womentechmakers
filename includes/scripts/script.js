@@ -389,7 +389,7 @@ var Data = {
 		},
 		"jonah-micah-mananghaya": {
 			"name": "Jonah Micah Mananghaya",
-			"title": "Globe Labs",
+			"title": "Community Manager, Globe Labs",
 			"bio": "",
 			"sm": {
 				"fb": "https://www.facebook.com/jonahmicah.mananghaya",

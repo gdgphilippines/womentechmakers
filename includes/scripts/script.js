@@ -147,6 +147,18 @@ var Data = {
 		}
 	},
 	"speakers": {
+		"gail-tan": {
+			"name": "Gail Tan",
+			"title": "Communications and Public Affairs at Google Philippines and Thailand",
+			"bio": "Gail Tan heads Communications and Public Affairs at Google Philippines and Thailand. She has been building communication strategies for over 17 years, including a ten-year stint working for two Philippine presidents. Immediately before her role at Google, Gail was the social media manager for one of President Bill Clinton's national security advisers on counter-terrorism. She holds a masters degree in Liberal Arts in Management from Harvard University and a Masters in Public Management from UP.",
+			"sm": {
+				"fb": "",
+				"tw": "",
+				"gp": "https://www.linkedin.com/in/gailtan",
+				"li": "",
+				"ws": ""
+			}
+		},
 		"ambe-tierro": {
 			"name": "Ambe Tierro",
 			"title": "Senior Managing Director, Accenture Technology in the Philippines",
@@ -160,7 +172,7 @@ var Data = {
 			}
 		},
 		"maricor-soriano": {
-			"name": "Maricor Soriano",
+			"name": "Dr. Maricor Soriano",
 			"title": "Physicist, University of the Philippines",
 			"bio": "Dr. Maricor Soriano is a physicist and a video and image processing expert from the University of the Philippines. She is one of the 2015 Leaders in Innovation Fellow of the UK-Newton Fund, the 2013 awardee of The Outstanding Women in the Nation's Service in Applied Physics, and 2006 Outstanding Young Scientist. She heads the Video and Image Processing Lab in which she trains the next generation of scientists to seek and solve global problems with locally appropriate solutions.",
 			"sm": {
@@ -172,7 +184,7 @@ var Data = {
 			}	
 		},
 		"kristine-mae-magtubo": {
-			"name": "Kristine Mae Magtubo",
+			"name": "Dr. Kristine Mae Magtubo",
 			"title": "University Researcher I, National Telehealth Center",
 			"bio": "Dr. Kristine Mae Magtubo graduated Doctor of Medicine from the University of the Philippines - College of Medicine in 2011. Entered the Doctors to the Barrios (DTTB) program of the Department of Health and served two municipalities in Samar and Leyte (2011-2013). While working in these areas, was introduced to telemedicine as a means of providing better health care to her patients in the barrios after graduation from the DTTB program (2013) joined the National Telehealth Center as the project manager of the RxBox, the country's largest eHealth research program she received training in technology commercialization from the Leaders in Innovation Fellowship of the UK Royal Academy of Engineering and the Asian Institute of Management, with support from the Department of Science and Technology, in 2015 and is now working on making the RxBox a sustainable platform for changing health care delivery in the country",
 			"sm": {
@@ -180,6 +192,18 @@ var Data = {
 				"tw": "",
 				"gp": "",
 				"li": "https://ph.linkedin.com/in/kristinemaemd",
+				"ws": ""
+			}
+		},
+		"kathleen-aviso": {
+			"name": "Dr. Kathleen Aviso",
+			"title": "Research and Advanced Studies Director, Gokongwei College of Engineering, De La Salle University",
+			"bio": "Kathleen B. Aviso is a full professor of chemical engineering and current Research and Advanced Studies Director of the Gokongwei College of Engineering at De La Salle University, Manila. Her research interests are computer-aided process engineering (CAPE), process systems engineering (PSE) and industrial ecology (IE). Her work focuses on developing computer models to aid in the planning and operation of sustainable and resilient industrial systems. Dr. Aviso received the degrees BS in Chemical Engineering from the University of the Philippines-Diliman, MS in Environmental Engineering and Management and PhD in Industrial Engineering from De La Salle University, Manila. She is the author of more than 60 Scopus-indexed publications with an h-index of 18, and was listed 43rd in the 2016 Webometrics ranking of Philippine scientists based on Google Scholar statistics. She is a member of the editorial boards of the scientific journals Process Integration and Optimization for Sustainability (Springer Nature) and Heliyon (Elsevier). For her scientific work, Dr. Aviso has received the 2016 Achievement Award from the National Research Council of the Philippines (NRCP), the 2016 Republica Award from the Commission on Higher Education (CHED), as well as the 2013 Outstanding Young Scientist and the 2008 Outstanding Scientific Paper Awards from the National Academy of Science and Technology (NAST). She was also the winner of the 2010 NAST Talent Search for Young Scientists, and a finalist in the 2016 ASEAN-US Science Prize for Women.",
+			"sm": {
+				"fb": "",
+				"tw": "",
+				"gp": "",
+				"li": "",
 				"ws": ""
 			}
 		},
@@ -259,6 +283,42 @@ var Data = {
 			"name": "Jeanette Balansag",
 			"title": "WWCodeManila, Game Dev Tech Lead",
 			"bio": "Jeanette has been working in IT industry for more than 4 years, mostly as a software QA slash programmer. Her interests outside IT include playing video games, doodling and calligraphy. After the grand launch of WWCode MNL, she noticed that there are non-IT professionals who attended. They inspired her to volunteer because she wants to help and encourage them to pursue their chosen career in IT. She also want to promote awareness amongst women that we can also excel in the IT world.",
+			"sm": {
+				"fb": "",
+				"tw": "",
+				"gp": "",
+				"li": "",
+				"ws": ""
+			}
+		},
+		"rissa-quindoza": {
+			"name": "Rissa Quindoza",
+			"title": "Google Anita Borg Scholar 2016, De La Salle University",
+			"bio": "Rissa is a Vaugirard scholar at De La Salle University currently pursuing a Bachelor in Computer Science with Specialization in Software Technology. She loves trying out new things and has been a part of various organizations in her college. For her work as the former President of Peer Tutors Society and the People Operations Officer of the Center for Complexity and Emerging Technologies (COMET), she has been awarded the Google Anita Borg Scholarship. The experience has only deepened her love for technology and her desire for a better women-inclusive community.",
+			"sm": {
+				"fb": "https://www.facebook.com/rcanu",
+				"tw": "https://twitter.com/rcanu",
+				"gp": "https://plus.google.com/+ReymartCanuel/",
+				"li": "https://ph.linkedin.com/in/rcanu",
+				"ws": "http://www.rcanu.com/"
+			}
+		},
+		"isabel-montes": {
+			"name": "Isabel Montes",
+			"title": "Assistant Professor, University of the Philippines Diliman",
+			"bio": "Isabel Montes is an Assistant Professor with the Computer Networks Laboratory at the Electrical and Electronics Engineering Institute (EEEI) of the University of the Philippines Diliman. She is a BS Computer Engineering graduate of the EEEI and was the first BS degree holder directly admitted into its Ph.D. program. During the course of her doctoral studies, she was awarded the Internet Society (ISOC) fellowship to the IETF 93. She earned her PhD in Electrical and Electronics Engineering in 2016. For the last four years, she has been involved in several DOST-funded projects aimed at delivering ICT to the underserved sectors of society, such as CloudTop project whose goal was to provide Philippine schools with computers and wireless Internet access, making useful educational content accessible to students and teachers. She is currently involved in the BayanihaNets project, which aimed at developing and deploying a cooperative mesh network that will deliver Internet access through the sharing of network resources.",
+			"sm": {
+				"fb": "",
+				"tw": "",
+				"gp": "",
+				"li": "",
+				"ws": ""
+			}
+		},
+		"angelita-ricardo": {
+			"name": "Angelita Ricardo",
+			"title": "Co-founder, UST Coder's Development Circle",
+			"bio": "Angelica is a graduating student of Information Systems at the University of Santo Tomas. She is a member of the Philippine Web Designers Organization and a co-founder of UST Coder’s Development Circle.",
 			"sm": {
 				"fb": "",
 				"tw": "",

@@ -351,6 +351,18 @@ var Data = {
 				"ws": "http://kristine-adlaon.blogspot.com/"
 			}
 		},
+		"drei-alquiros": {
+			"name": "Drei Alquiros",
+			"title": "Team Lead for Web Development in AffinityX",
+			"bio": "Drei is currently the Team Lead for Web Development in AffinityX. She's also a freelance Web Designer & Developer who specializes in PHP and Wordpress development. Most of her projects include project management, web design, web development, training and maintenance.",
+			"sm": {
+				"fb": "",
+				"tw": "",
+				"gp": "",
+				"li": "",
+				"ws": ""
+			}
+		},
 		"claudine-rodriguez": {
 			"name": "Claudine Rodriguez",
 			"title": "Co-Founder at Good Code",

@@ -339,6 +339,18 @@ var Data = {
 				"ws": ""
 			}
 		},
+		"chiara-veronica-senires": {
+			"name": "Chiara Veronica Señires",
+			"title": "Co-Founder, User Experience Society (UXSoc)",
+			"bio": "Chi Señires is a Computer Science graduate from the Ateneo de Manila University. She currently works there as a research assistant under the ​Ateneo Java Wireless Competency Center as a UX/UI Designer.​ ​​While a student, she was​ a co-founder and​ ​a Vice President for Operations and Design of User Experience Society (UXSoc).​  She was also the Associate Vice President for Publication in her home organization, Computer Society of the Ateneo (CompSAt​). In her spare time, she likes to read webcomics​​ and play PC games.​",
+			"sm": {
+				"fb": "",
+				"tw": "",
+				"gp": "",
+				"li": "",
+				"ws": ""
+			}
+		},
 		"kristine-mae-adlaon": {
 			"name": "Kristine Mae Adlaon",
 			"title": "Faculty, University of the Immaculate Conception - Davao",

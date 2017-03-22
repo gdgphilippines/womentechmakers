@@ -136,9 +136,9 @@ var Data = {
 			"desc": "<b>About the Workshop</b><br>Language is powerful. When used well, it helps sell products, influence behavior, and get things done. It's no different with technology. The phrases and sentences used in the design of software applications, websites, and hardware can radically change how people engage with the technology.<br><br>Microcopy consists of the headings, hint texts, placeholders, summaries, and instructions throughout a website or app.  These small pieces of content often get overlooked—to the detriment of the application or website you are building. And yet it is one of the ingredients that make the difference between tech that fades into obscurity and extremely successful products like Trello or Slack.<br><br><b>What you'll learn</b><br>At the end of this 2.5 hour workshop, you'll understand the power of microcopy through many real-life examples and  learn how to analyze microcopy for strengths and weaknesses, identify opportunities to use microcopy, and practice writing some microcopy.<br><br><b>Who Should Attend?</b><br>If your team is building an app, website, or hardware with a user interface, and you want to learn how to give your product an edge using the wonders of words, then this workshop is for you—whether you're a designer, manager, writer, developer, or marketer.<br><br><b>Pre-requisite knowledge</b><br>Basic knowledge apps or websites like the concepts of screens and pages.<br><br><b>What you'll need</b><br><ul><li>Laptop</li><li>Smartphone or tablet with your favorite apps or apps that you're working on so we can analyze them together</li></ul>"
 		},
 		"build-website": {
-			"name": "Speaking a New Language",
-			"by": "Philippine Web Designers Organization",
-			"desc": "<b>About the Workshop</b><br>Learning HTML for Web Design is like speaking a new language. Speaking to your browser through codes to create websites. This workshop will jumstart your skills in building websites!<br><br><b>Things you'll need:</b><br><ul><li>Laptop</li></ul>"
+			"name": "Buiding your own Website",
+			"by": "Drei Alquiros, Philippine Web Designers Organization",
+			"desc": "<b>About the Workshop</b><br>Learning HTML for Web Design is like speaking a new language. Speaking to your browser through codes to create websites. This workshop will jumpstart your skills in building websites!<br><br><b>Things you'll need:</b><br><ul><li>Laptop</li></ul>"
 		},
 		"raspi": {
 			"name": "Introduction to Game Development",

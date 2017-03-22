@@ -6454,6 +6454,7 @@ table.agenda img.nodesign {
 }
 table.agenda td {
 	padding: 20px;
+	line-height: 200%;
 }
 table.agenda tr td:first-child {
 	color: #3a7cec;
@@ -6517,6 +6518,7 @@ table.agenda tr:nth-child(2n+1):hover td {
 	margin-left: 12px;
 	text-transform: uppercase;
 	background: #666;
+	white-space: nowrap;
 	color: white;
 	font-size: 12px;
 	padding: 6px 8px;

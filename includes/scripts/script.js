@@ -258,7 +258,7 @@ var Data = {
 		"christine-balanaa": {
 			"name": "Christine Balanaa",
 			"title": "WWCodeManila, Android Tech Lead",
-			"bio": "Christine works as a Java Developer at Pointwest Technologies. She likes programming because of the many opportunities it offer to learn something new.",
+			"bio": "Christine works as a Java Developer at Pointwest Technologies. She likes programming because of the many opportunities it offers to learn something new.",
 			"sm": {
 				"fb": "",
 				"tw": "",

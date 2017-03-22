@@ -270,7 +270,7 @@ var Data = {
 		"kristine-joy-paas": {
 			"name": "Kristine Joy Paas",
 			"title": "WWCodeManila, Ruby on Rails Tech Lead",
-			"bio": "Joy is a web developer at Quipper Limited. She is a self-taught programmer. She started programming as a hobby but eventually fell in love with it since it enables her to building things. Joy wants to help other people discover the beauty of code.",
+			"bio": "Joy is a web developer at Quipper Limited. She is a self-taught programmer. She started programming as a hobby but eventually fell in love with it since it enables her to build things. Joy wants to help other people discover the beauty of code.",
 			"sm": {
 				"fb": "",
 				"tw": "",

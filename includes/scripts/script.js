@@ -246,7 +246,7 @@ var Data = {
 		"anj-cerbolles": {
 			"name": "Anj Cerbolles",
 			"title": "Director of Women Who Code Manila",
-			"bio": "Anj is a Sharepoint Developer at Re:Sources Philippines. She wanted more women to be visible in the tech events and conferences that is why she wanted to start Women Who Code Manila.",
+			"bio": "Anj is a Sharepoint Developer at Re:Sources Philippines. She wanted more women to be visible in the tech events and conferences. That is why she wanted to start Women Who Code Manila.",
 			"sm": {
 				"fb": "",
 				"tw": "",

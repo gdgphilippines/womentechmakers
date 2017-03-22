@@ -282,7 +282,7 @@ var Data = {
 		"nicole-tibay": {
 			"name": "Nicole Tibay",
 			"title": "WWCodeManila, Python Tech Lead",
-			"bio": "Nicole is a web developer at First Digital Finance Corporation. She got enchanted under the spell of PEP 20 -- The Zen of Python and decided to dump her 2-year SAP ABAP experience to venture on as a Python Dev in a financial start up company. This PyPrincess is haunted by midnight ideas of healthy foods and apps and practices the magic of pointillism with pen and paper as her weapon.​",
+			"bio": "Nicole is a web developer at First Digital Finance Corporation. She got enchanted under the spell of PEP 20 -- The Zen of Python and decided to dump her 2-year SAP ABAP experience to venture on as a Python Dev in a financial start up company. This PyPrincess is haunted by midnight ideas of healthy food and apps and practices the magic of pointillism with pen and paper as her weapon.​",
 			"sm": {
 				"fb": "",
 				"tw": "",
